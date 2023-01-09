@@ -1,5 +1,5 @@
 # chall
-## Rev (499 points, first blood!)
+## Rev (499 points, first blood!) by nope
 
 > Do you remember Scratch? You'll need to for this next challenge.  
 To input a flag, click the green flag and type in a flag. Press enter, then click Michael to check.
